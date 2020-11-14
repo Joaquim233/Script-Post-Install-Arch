@@ -12,3 +12,5 @@ Talvez você consiga ele com o wget(ainda vou ver sobre isso):
 
 E com o git:
 `git clone git://github.com/Joaquim233/Script-Post-Install-Arch/`
+Obs: Quem quiser ajudar e ir consertando algo que possa estar errado, pode me falar.
+
